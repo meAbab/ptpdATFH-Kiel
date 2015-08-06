@@ -1,1 +1,1 @@
-Its open and free for all, except of those student who is taking course in FH-Kiel for Advance C++. 
+Its open and free for all, except of those student who is taking Advance C++ course in FH-Kiel. 
